@@ -22,7 +22,7 @@ I checked the shape, columns, index and data types at the dataframe.
 
 I used the ‘Group By’ built-in function as queries with different aggregate functions and sorting values to get some insights about when accidents’ severity is worse and in which areas severity is mainly concentrated. To visualise that, I have incorporated different visualisations, using appropriated labels and titles for the plots, redefining colours and styles while plotting the data. Furthermore, I created a map of Barcelona and plotting accidents’ geolocation with Folium.
 
-In a first attempt to find out a bit more about correlations, I plotted a matrix of correlations along with a heatmap. Apparently, there isn’t so many correlations between the variables available in this dataset.    
+In a first attempt to find out a bit more about correlations, I plotted a matrix of correlations along with a heatmap. Apparently, there aren't so many correlations betweem the variables available in this dataset.    
 
 ### Results:
 
